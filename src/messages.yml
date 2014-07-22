@@ -1,0 +1,8 @@
+#Config for customizing plugin messages
+
+credits: "Landlord {version} created by {creator}"
+help-text:
+    - ""
+    - ""
+    - ""
+    - ""
